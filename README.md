@@ -1,10 +1,10 @@
 # Web Development Final Project - *Homework Tracker*
 
-Submitted by: **Your Name Here**
+Submitted by: **Yumi**
 
-This web app: **insert description**
+This web app: **in da name**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
